@@ -1,5 +1,5 @@
 # Support-Vector-Machines
-These are the codes used for the SVM project for the Master of Bioinformatics programme. The Least Squares SVM (LSSVM) MATLAB toolkit was used in this course. 
+The Least Squares SVM (LSSVM) MATLAB toolkit was used in this project. 
 
 The first exercise was on classification.
 The second exercise was on function estimation and time series prediction.
